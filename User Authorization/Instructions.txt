@@ -1,0 +1,10 @@
+//install npm modules
+npm i
+
+//run index.js file
+node index.js
+
+//type password for authorization.
+= [nodeAuth]
+
+//Enjoy Secrets
